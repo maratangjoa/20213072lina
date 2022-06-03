@@ -52,8 +52,7 @@ TIME+ - 프로세스가 시작하여 사용한 CPU시간 
 
 *-d:화면갱신주기를 초 단위로 설정*
 
-![image](https://user-images.githubusercontent.com/86597790/171894742-14f20e97-b433-47c7-8e47-1960462008c4.png)
-
+![image](https://user-images.githubusercontent.com/86597790/171895887-03b31e2b-6c6a-466a-a3ec-00b98cf43c01.png)
 
 
 ---
