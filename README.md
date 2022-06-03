@@ -37,8 +37,11 @@ TIME+ - 프로세스가 시작하여 사용한 CPU시간 
 |-p|지정한 PID 프로세스를 모니터링|
 
 -n
-![image](https://user-images.githubusercontent.com/86597790/171854832-b6ca3919-db3a-406d-a0ad-33f624fb8ac1.png)
-                                                      
+![image](https://user-images.githubusercontent.com/86597790/171877953-9058aad3-23ec-4f3e-bdf7-9f7abb2cb949.png)
+                                               🠓
+![image](https://user-images.githubusercontent.com/86597790/171878076-e8578e68-c37f-4312-9403-9addd6289092.png)
+
+
 
 
 ---
