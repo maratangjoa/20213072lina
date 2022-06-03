@@ -42,9 +42,12 @@ ___HI___
 
 ---
 
----
 
 <https://clc.chosun.ac.kr/ilos/main/main_form.acl>
 [Chosun e-class](https://clc.chosun.ac.kr/ilos/main/main_form.ac)
 
 ---
+
+![image](C:\Users\김린아\Desktop)
+
+
