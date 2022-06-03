@@ -32,8 +32,10 @@ int main()
 
 *HI*
 _HI_
+
 **HI**
 __HI__
+
 ***HI***
 ___HI___
 
