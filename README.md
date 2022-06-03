@@ -1,73 +1,10 @@
-# LINA KIM 20213072
-
-
---- 
-
-HI 
-
-HI
-
->HI
->>HI
->>>HI
-
-```python
-
-print("HI");
-```
-
-
-```
-
-#include <stdio.h>
-
-int main()
-{
-  printf("HI");
- 
-
-}
- 
-```
-
-*HI*
-_HI_
-
-**HI**
-__HI__
-
-***HI***
-___HI___
-
+# 20213072_kimlina
 
 ---
 
+**1.top**
 
-<https://clc.chosun.ac.kr/ilos/main/main_form.acl>
-
-[Chosun e-class](https://clc.chosun.ac.kr/ilos/main/main_form.ac)
-
----
-
-![cat](https://user-images.githubusercontent.com/86597790/171844975-329bb35b-a5f5-4c4a-b9d5-d47413808595.jpg)
-
-<img src="https://user-images.githubusercontent.com/86597790/171844975-329bb35b-a5f5-4c4a-b9d5-d47413808595.jpg" width="100" height="100">
-
----
-
-|제목|내용|설명|
-|---|---|---|
-|a1|b1|c1|
-|a2|b2|c2|
-|a3|b3|c3|
-
-|제목|내용|설명|
-|:---|:---:|---:|
-|a1|b1|c1|
-|a2|b2|c2|
-|a3|b3|c3|
+![image](https://user-images.githubusercontent.com/86597790/171852284-a7a18235-f93f-458d-9cff-82e98fd6a9ad.png)
 
 
 ---
-
-
