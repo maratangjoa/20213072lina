@@ -36,5 +36,9 @@ TIME+ - 프로세스가 시작하여 사용한 CPU시간 
 |-d|화면갱신주기를 초 단위로 설정|
 |-p|지정한 PID 프로세스를 모니터링|
 
+-n
+![image](https://user-images.githubusercontent.com/86597790/171854832-b6ca3919-db3a-406d-a0ad-33f624fb8ac1.png)
+                                                      
+
 
 ---
