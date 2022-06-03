@@ -47,10 +47,10 @@ TIME+ - 프로세스가 시작하여 사용한 CPU시간 
 <img src=https://user-images.githubusercontent.com/86597790/171879714-af173198-f10c-4626-bb4d-21a3b2b839b7.png width="600" height="200">
 
 *-u:지정한 사용자의 프로세스를 모니터링*
+
 ![image](https://user-images.githubusercontent.com/86597790/171880384-4a065b1b-3bf1-4d98-aa0a-c281c175c63b.png)
 
 *-d:화면갱신주기를 초 단위로 설정*
-
 ![image](https://user-images.githubusercontent.com/86597790/171894742-14f20e97-b433-47c7-8e47-1960462008c4.png)
 
 
