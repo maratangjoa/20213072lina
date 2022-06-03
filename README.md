@@ -26,6 +26,7 @@ RES - 프로세스가 사용하는 실제 메모리양
 SHR - 프로세스가 사용하는 공유 메모리양 
 S - 현재 프로세스의 상태를 나타냄 
 TIME+ - 프로세스가 시작하여 사용한 CPU시간 
+
 ```
 
 
@@ -39,7 +40,8 @@ TIME+ - 프로세스가 시작하여 사용한 CPU시간 
 |-p|지정한 PID 프로세스를 모니터링|
 
 
--n
+
+*-n*
 
 ![image](https://user-images.githubusercontent.com/86597790/171877953-9058aad3-23ec-4f3e-bdf7-9f7abb2cb949.png)
 
