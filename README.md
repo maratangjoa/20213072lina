@@ -18,7 +18,7 @@
 ```
 
 
-
+```
 프로세스 CPU 사용 사용순서 부분 항목
 PR - 우선순위 NI - Nice value(-20~19 사이의 숫자이며 값이 작을수록 우선순위가 높음)
 VIRT - 작업에 사용된 가상 메모리 총사용량
@@ -26,7 +26,7 @@ RES - 프로세스가 사용하는 실제 메모리양
 SHR - 프로세스가 사용하는 공유 메모리양 
 S - 현재 프로세스의 상태를 나타냄 
 TIME+ - 프로세스가 시작하여 사용한 CPU시간 
-
+```
 
 
 
@@ -42,11 +42,12 @@ TIME+ - 프로세스가 시작하여 사용한 CPU시간 
 
 
 
-*-n*
+*-n:지정한 숫자만큼 화면 출력을 갱신*
 
 ![image](https://user-images.githubusercontent.com/86597790/171877953-9058aad3-23ec-4f3e-bdf7-9f7abb2cb949.png)
 
-                                               🠓
+                                    
+                                                🠓
                                                
 ![image](https://user-images.githubusercontent.com/86597790/171878196-b77c6805-aa5b-4a1f-a599-fe7fef518904.png)
 
