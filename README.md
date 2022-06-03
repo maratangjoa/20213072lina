@@ -49,7 +49,7 @@ ___HI___
 
 ---
 
-![cat](C:\Users\김린아\Desktop)
-
 ![cat](https://user-images.githubusercontent.com/86597790/171844975-329bb35b-a5f5-4c4a-b9d5-d47413808595.jpg)
+<img src="https://user-images.githubusercontent.com/86597790/171844975-329bb35b-a5f5-4c4a-b9d5-d47413808595.jpg"width="500" height="500">
+
 
