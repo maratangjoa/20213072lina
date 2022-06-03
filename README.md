@@ -38,8 +38,10 @@ TIME+ - 프로세스가 시작하여 사용한 CPU시간 
 
 -n
 ![image](https://user-images.githubusercontent.com/86597790/171877953-9058aad3-23ec-4f3e-bdf7-9f7abb2cb949.png)
+
                                                🠓
-![image](https://user-images.githubusercontent.com/86597790/171878076-e8578e68-c37f-4312-9403-9addd6289092.png)
+                                               
+![image](https://user-images.githubusercontent.com/86597790/171878196-b77c6805-aa5b-4a1f-a599-fe7fef518904.png)
 
 
 
