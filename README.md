@@ -44,11 +44,11 @@ ___HI___
 
 
 <https://clc.chosun.ac.kr/ilos/main/main_form.acl>
+
 [Chosun e-class](https://clc.chosun.ac.kr/ilos/main/main_form.ac)
 
 ---
 
 ![image](C:\Users\김린아\Desktop)
-![cat](https://user-images.githubusercontent.com/86597790/171844860-09c53699-af56-40f3-9dc6-9dbce69ebc15.jpg)
 
 
