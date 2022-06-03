@@ -45,6 +45,7 @@ TIME+ - 프로세스가 시작하여 사용한 CPU시간 
 *-n:지정한 숫자만큼 화면 출력을 갱신*
 
 <img src=https://user-images.githubusercontent.com/86597790/171877953-9058aad3-23ec-4f3e-bdf7-9f7abb2cb949.png width="600" height:350>
+
 ![image](https://user-images.githubusercontent.com/86597790/171879714-af173198-f10c-4626-bb4d-21a3b2b839b7.png)
 
 
