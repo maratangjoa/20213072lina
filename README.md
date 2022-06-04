@@ -231,6 +231,39 @@ pid ··· : 종료시킬 프로세스 ID나 프로세스 이름을 지정한다
 -9 : 프로세스를 강제로 종료시킨다
 ```
 
+--------------------------------
+
+**Vim - 같은 명령 반복하는 매크로 기능** 
+
+1. (ecs 눌러서 커맨드 상태에서 )q + a~z : 입력한 a~z키에 recording 시작
+
+![image](https://user-images.githubusercontent.com/86597790/171992980-edcc911d-98fe-4a98-b176-d8478c350dd4.png)
+
+
+2. 반복을 위한 내가 원하는 동작 입력
+
+![image](https://user-images.githubusercontent.com/86597790/171993050-0643f351-4be4-4cef-8bc9-9d6fde93ed73.png)
+
+
+
+4.(커맨드상태에서 ) q:recoding 종료
+
+![image](https://user-images.githubusercontent.com/86597790/171993037-cb573ef6-3900-4f09-856f-f13160a22fb1.png)
+
+
+
+5. @+a~z:1회 실행/ @@ : 방금 실행한 매크로 실행/ n+@a : 매크로 n회 실행
+
+-@a
+![image](https://user-images.githubusercontent.com/86597790/171993198-f14bc324-06cc-48f7-bd0a-296b1664874f.png)
+
+
+-@@
+![image](https://user-images.githubusercontent.com/86597790/171993211-3ad25f3b-d547-4606-b5cc-7a10d3a8de00.png)
+
+
+-10@a
+![image](https://user-images.githubusercontent.com/86597790/171993230-c7e79161-2409-4745-b958-6b60a48f0ba5.png)
 
 
 
