@@ -193,8 +193,11 @@ top 단축기 명령어
 -현재 계정에서 작업이 중지된 상태,백그라운드로 진행 중인 작업 상태,변경되었지만 보고되지 않는 상태 등을 표시한다.
 
 ![image](https://user-images.githubusercontent.com/86597790/171991481-93041e1f-f216-4d57-9354-b393fd191188.png)
+
 처음에 jobs 명령어를 실행했을때 아무것도 표시되지않는다. 이는 백그라운드에서 실행한 파일이 없기 때문이다.
+
 ![image](https://user-images.githubusercontent.com/86597790/171991524-d6ecdf52-f42c-42dc-aab3-c68d39518d35.png)
+
 백그라운드 파일을 한개 만들어 주고 실행하면 표시가 된다.
 
 ```
