@@ -138,6 +138,19 @@ top 단축기 명령어
 |%CPU|마지막 1분 동안 프로세스가 사용한 CPU 점유율 (u 옵션)|
 |%MEM|마지막 1분 동안 프로세스가 사용한 메모리의 점유율 (u, v 옵션)|
 
+![image](https://user-images.githubusercontent.com/86597790/171990680-c40d3e6c-8e63-4ca5-8c5c-66c475ff6c5c.png)
+
+![image](https://user-images.githubusercontent.com/86597790/171990689-b737d07d-51ee-49a0-80d2-a078fdbb6830.png)
+
+![image](https://user-images.githubusercontent.com/86597790/171990709-b3afe5a1-8623-4abc-ba65-44235978236b.png)
+
+![image](https://user-images.githubusercontent.com/86597790/171990723-afe52f32-ef66-4469-ae5b-bf7d0bb2e228.png)
+
+![image](https://user-images.githubusercontent.com/86597790/171990730-03c71a1c-52fe-4bcc-a11b-f76a24018b5a.png)
+
+
+
+
 
 *기본 프로세스출력*
 
@@ -171,7 +184,7 @@ top 단축기 명령어
 |옵션|의미|
 |---|---|
 |f|프로세스 계층을 텍스트 형식의 트리구조를 보여줌.|
-|-f|전체 포맷으로 출력|
+|-f|전체 포맷으로 출력.유닉스 스타일로 출력해줌|
 
 
 
